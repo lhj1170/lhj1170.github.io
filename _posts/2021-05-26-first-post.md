@@ -9,3 +9,15 @@ comments: true
 
 ## First Memo
 Start To Memo!
+
+```python
+class Module:
+    def run(self):
+        print('Hello World!!')
+
+module = Module()
+module.run()
+
+```
+
+    Hello World!!
